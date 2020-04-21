@@ -1,0 +1,7 @@
+C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RarionalInteger.csprojAssemblyReference.cache
+C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RarionalInteger.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\bin\Debug\RarionalInteger.exe.config
+C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\bin\Debug\RarionalInteger.exe
+C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\bin\Debug\RarionalInteger.pdb
+C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RarionalInteger.exe
+C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RarionalInteger.pdb

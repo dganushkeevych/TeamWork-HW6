@@ -1,0 +1,17 @@
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\RationalIntegerUnitTest.dll
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\RationalIntegerUnitTest.pdb
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\RarionalInteger.exe
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\RarionalInteger.pdb
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\RarionalInteger.exe.config
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\obj\Debug\RationalIntegerUnitTest.csprojAssemblyReference.cache
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\obj\Debug\RationalIntegerUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\obj\Debug\RationalIntegerUnitTest.csproj.CopyComplete
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\obj\Debug\RationalIntegerUnitTest.dll
+C:\Users\Diana\source\repos\RarionalInteger\RationalIntegerUnitTest\obj\Debug\RationalIntegerUnitTest.pdb
