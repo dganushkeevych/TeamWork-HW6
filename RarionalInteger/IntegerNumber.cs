@@ -49,8 +49,15 @@ namespace RationalInteger
 
         public void InputData(string line)
         {
-            int num = Convert.ToInt32(line);
-            this.number = num;
+            try
+            {
+                int num = Convert.ToInt32(line);
+                this.number = num;
+            }
+            catch(FormatException ex)
+            {
+                Console.WriteLine($"Error occured: {ex.Message}");
+            }
         }
 
         public void OutputData(StreamWriter streamWriter)

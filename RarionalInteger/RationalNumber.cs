@@ -52,9 +52,17 @@ namespace RationalInteger
 
         public void InputData(string line)
         {
-            string[] info = line.Split('/');
-            this.numerator = Convert.ToInt32(info[0]);
-            this.denominator = Convert.ToInt32(info[1]);
+            try
+            {
+                string[] info = line.Split('/');
+                this.numerator = Convert.ToInt32(info[0]);
+                this.denominator = Convert.ToInt32(info[1]);
+            }
+            catch(FormatException ex)
+            {
+                Console.WriteLine($"Error occured: {ex.Message}");
+
+            }
         }
 
         public static int GCD(int a, int b)
@@ -69,14 +77,21 @@ namespace RationalInteger
                 a = b;
                 b = remainder;
             }
-
-            do
+            try
             {
-                remainder = a % b;
-                a = b;
-                b = remainder;
+                do
+                {
+                        remainder = a % b;
+                        a = b;
+                        b = remainder;
+                 
+                }
+                while (remainder != 0);
             }
-            while (remainder != 0);
+            catch
+            {
+                Environment.Exit(0);
+            }
             return a;
         }
 
