@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalInteger", "Rarional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalIntegerUnitTest", "RationalIntegerUnitTest\RationalIntegerUnitTest.csproj", "{198CB125-D62A-477C-8F0A-42B2B9970BAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalIntegerWindowsForms", "RationalIntegerWindowsForms\RationalIntegerWindowsForms.csproj", "{67436E7A-9669-4DA5-9244-8D43FFB22104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{198CB125-D62A-477C-8F0A-42B2B9970BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{198CB125-D62A-477C-8F0A-42B2B9970BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{198CB125-D62A-477C-8F0A-42B2B9970BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67436E7A-9669-4DA5-9244-8D43FFB22104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67436E7A-9669-4DA5-9244-8D43FFB22104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67436E7A-9669-4DA5-9244-8D43FFB22104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67436E7A-9669-4DA5-9244-8D43FFB22104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -28,3 +28,5 @@ Sum : 1031/40
 Average : 1031/200    Dobutok : 3969/10
 Sum : 1031/40
 Average : 1031/200    Dobutok : 3969/10
+Sum : 1031/40
+Average : 1031/200    Dobutok : 3969/10
