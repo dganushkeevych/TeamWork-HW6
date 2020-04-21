@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RarionalInteger
+namespace RationalInteger
 {
     class Program
     {

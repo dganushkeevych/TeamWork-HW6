@@ -5,3 +5,10 @@ C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RationalIn
 C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RarionalInteger.exe
 C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RarionalInteger.pdb
 C:\Users\Diana\source\repos\RarionalInteger\RarionalInteger\obj\Debug\RationalInteger.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\HomeWork6\TeamWork-HW6\RarionalInteger\bin\Debug\RarionalInteger.exe.config
+C:\Users\Diana\Desktop\HomeWork6\TeamWork-HW6\RarionalInteger\bin\Debug\RarionalInteger.exe
+C:\Users\Diana\Desktop\HomeWork6\TeamWork-HW6\RarionalInteger\bin\Debug\RarionalInteger.pdb
+C:\Users\Diana\Desktop\HomeWork6\TeamWork-HW6\RarionalInteger\obj\Debug\RationalInteger.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\HomeWork6\TeamWork-HW6\RarionalInteger\obj\Debug\RationalInteger.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\HomeWork6\TeamWork-HW6\RarionalInteger\obj\Debug\RarionalInteger.exe
+C:\Users\Diana\Desktop\HomeWork6\TeamWork-HW6\RarionalInteger\obj\Debug\RarionalInteger.pdb
