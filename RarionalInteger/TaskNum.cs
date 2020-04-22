@@ -79,11 +79,12 @@ namespace RationalInteger
                 }
                 else
                 {
-                    INumber newNum = new IntegerNumber();
-                    newNum.InputData(line);
-                    IntegerNumber intNum = newNum as IntegerNumber;
-                    RationalNumber ratNum = new RationalNumber { numerator = intNum.number, denominator = 1 };
-                    task.numbers.Add(ratNum);
+                        INumber newNum = new IntegerNumber();
+                        newNum.InputData(line);
+                        IntegerNumber intNum = newNum as IntegerNumber;
+                        RationalNumber ratNum = new RationalNumber { numerator = intNum.number, denominator = 1 };
+                        task.numbers.Add(ratNum);
+                   
                 }
             }
             return task;
