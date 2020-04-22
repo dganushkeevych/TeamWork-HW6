@@ -38,6 +38,7 @@ namespace RationalInteger
         public INumber Multiplication(INumber number)
         {
             var num = number as RationalNumber;
+            //перевірка
             return new RationalNumber(this.numerator * num.numerator, num.denominator * this.denominator);
         }
 

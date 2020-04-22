@@ -1,4 +1,4 @@
-﻿namespace RationalIntegerWindowsForms
+﻿namespace RationalInteger
 {
     partial class Form1
     {

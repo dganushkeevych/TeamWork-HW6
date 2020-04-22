@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RarionalInteger\RationalInteger.csproj">
-      <Project>{2e2b6752-d9ea-4d07-a8fa-6162e79ea186}</Project>
-      <Name>RationalInteger</Name>
+    <ProjectReference Include="..\RationalIntegerWindowsForms\RationalIntegerWindowsForms.csproj">
+      <Project>{67436e7a-9669-4da5-9244-8d43ffb22104}</Project>
+      <Name>RationalIntegerWindowsForms</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
